@@ -1,6 +1,6 @@
 # flutter_my_number
 
-Read My Number Card Sample For Flutter
+Read my number card sample for Flutter
 
 ## 解説
 
